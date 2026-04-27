@@ -5,18 +5,16 @@ admin mengelola produk, stok, dan harga buah secara digital.
 
 ---
 
-## 👤 Identitas
+## Identitas
 
-| | |
-|---|---|
-| **Nama** | Desni |
-| **NIM** | 242410101055 |
-| **Mata Kuliah** | Pemrograman Web |
-| **Framework** | Laravel 13 |
+ **Nama** : Desni 
+ **NIM**  : 242410101055 
+ **Mata Kuliah** : Pemrograman Web |
+ **Framework**  : Laravel 13 |
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 - Laravel 13 + PHP 8.3
 - Bootstrap 5
@@ -25,7 +23,7 @@ admin mengelola produk, stok, dan harga buah secara digital.
 
 ---
 
-## 📋 Fitur
+## Fitur
 
 - Login & Logout admin
 - Dashboard dengan grafik produk
@@ -34,7 +32,7 @@ admin mengelola produk, stok, dan harga buah secara digital.
 
 ---
 
-## 📸 Screenshot
+## Screenshot web
 
 ### Halaman Login
 ![Login](screenshots/login.png)
