@@ -1,3 +1,63 @@
+# 🍎 SegarBuah — Sistem Manajemen Toko Buah
+
+Aplikasi web manajemen toko buah berbasis Laravel yang memudahkan 
+admin mengelola produk, stok, dan harga buah secara digital.
+
+---
+
+## 👤 Identitas
+
+| | |
+|---|---|
+| **Nama** | Desni |
+| **NIM** | 242410101055 |
+| **Mata Kuliah** | Pemrograman Web |
+| **Framework** | Laravel 13 |
+
+---
+
+## 🛠️ Teknologi
+
+- Laravel 13 + PHP 8.3
+- Bootstrap 5
+- Chart.js
+- Laragon + VSCode
+
+---
+
+## 📋 Fitur
+
+- Login & Logout admin
+- Dashboard dengan grafik produk
+- Pengelolaan produk buah (stok, harga, kategori)
+- Profil admin
+
+---
+
+## 📸 Screenshot
+
+### Halaman Login
+![Login](screenshots/login.png)
+
+### Halaman Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Halaman Pengelolaan Produk
+![Pengelolaan](screenshots/pengelolaan.png)
+
+### Halaman Profil
+![Profil](screenshots/profil.png)
+
+---
+
+## 🚀 Cara Menjalankan
+
+1. Clone repository ini
+2. Jalankan `composer install`
+3. Copy `.env.example` ke `.env`
+4. Jalankan `php artisan key:generate`
+5. Jalankan `php artisan serve`
+6. Buka browser → `http://127.0.0.1:8000`
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
