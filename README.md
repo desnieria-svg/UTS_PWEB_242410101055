@@ -44,7 +44,7 @@ admin mengelola produk, stok, dan harga buah secara digital.
 ![Pengelolaan](screenshot/pengelolaan.png)
 
 ### Halaman Profil
-![Profil](screenshot/profil.png)
+![Profil](screenshot/profilE.png)
 
 ---
 
